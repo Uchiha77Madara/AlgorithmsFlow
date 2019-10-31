@@ -7,7 +7,8 @@ Running time is very high but since i need it for small graphs, so it doesn't ma
 I have tested only on few examples which are given as input*.txt.
 
 # How to Run(Linux)
-To compile: g++ maxFlowMPM.cpp\n
+To compile: g++ maxFlowMPM.cpp
+
 To Run: ./a.out input*.txt
 
 Windows user can compile as they like but filename must be passed as command line argument.
